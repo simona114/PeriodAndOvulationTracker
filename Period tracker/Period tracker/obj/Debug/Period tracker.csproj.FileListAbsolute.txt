@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\Period tracker\Period tracker\bin\Debug\Period tracker.exe.config
+C:\Users\User\source\repos\Period tracker\Period tracker\bin\Debug\Period tracker.exe
+C:\Users\User\source\repos\Period tracker\Period tracker\bin\Debug\Period tracker.pdb
+C:\Users\User\source\repos\Period tracker\Period tracker\obj\Debug\Period tracker.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Period tracker\Period tracker\obj\Debug\Period_tracker.Properties.Resources.resources
+C:\Users\User\source\repos\Period tracker\Period tracker\obj\Debug\Period tracker.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Period tracker\Period tracker\obj\Debug\Period tracker.exe
+C:\Users\User\source\repos\Period tracker\Period tracker\obj\Debug\Period tracker.pdb
+C:\Users\User\source\repos\Period tracker\Period tracker\obj\Debug\Period_tracker.PeriodTracker.resources
